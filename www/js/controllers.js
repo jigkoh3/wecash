@@ -1,4 +1,7 @@
 angular.module('starter.controllers', [])
+.controller('AuthCtrl', function($scope){
+  
+})
 
 .controller('DashCtrl', function($scope) {})
 
